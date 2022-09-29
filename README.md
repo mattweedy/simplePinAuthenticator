@@ -1,5 +1,5 @@
 # simplePinAuthenticator
----
+
 a program to authenticate an encrypted password PIN. the user can choose to either:
 1. encrypt any 4 digit code
 2. encrypt the code entered and verify if it matches the (hardcoded) authorised code (4523)
