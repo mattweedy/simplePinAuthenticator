@@ -6,5 +6,6 @@ a program to authenticate an encrypted password PIN. the user can choose to eith
 3. decrypt the user-inputted code
 4. display the amount of times the code was entered i) correctly ii) incorrectly || (if it matches authorised code)
 5. exit the program
+
 the program uses separate functions with pass by reference for each step, 
 and certain options should not be allowed to run if the user has not entered a code yet 
